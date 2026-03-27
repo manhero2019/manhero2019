@@ -14,9 +14,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iyanuloluwa-Miracle&style=flat-square&color=ff69b4" alt="Profile Views"/>
-</div>
+
 
 <h1 align="center">
   Yo, What's Good?
